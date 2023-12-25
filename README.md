@@ -26,5 +26,5 @@ I'm passionate about coding and building robust software. My expertise lies in M
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshdeep-blue)](https://www.linkedin.com/in/harshdeeply/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue)](https://twitter.com/harshdeeply)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshdeeply-blue)](https://www.linkedin.com/in/harshdeeply/)
+[![Twitter](https://img.shields.io/badge/Twitter-harshdeeply-blue)](https://twitter.com/harshdeeply)
