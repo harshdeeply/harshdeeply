@@ -1,19 +1,10 @@
-# 👋 Hello, I'm [Harshdeep]!
+# 👋 Hello, I'm Harshdeep!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshdeeply&color=red)
 
 ## 🚀 About Me
 
 I'm passionate about coding and building robust software. My expertise lies in MERN, PERN, and Golang. Currently exploring Ruby on Rails.
-
-## 💻 Technologies & Tools
-
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Your%20Primary%20Tech%20Stack-brightgreen)
-![Editor](https://img.shields.io/badge/Editor-Your%20Favorite%20Editor-blue)
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdeeply&show_icons=true&count_private=true&hide=issues&theme=radical)](https://github.com/harshdeeply/github-readme-stats)
 
 ## 💼 Top Languages
 
