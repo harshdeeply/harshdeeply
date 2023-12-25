@@ -21,8 +21,8 @@ I'm passionate about coding and building robust software. My expertise lies in M
 
 ## 🌱 I’m currently learning
 
-- [New Technology or Skill 1]
-- [New Technology or Skill 2]
+- Ruby
+- Rails
 
 ## 🤝 Let's Connect!
 
