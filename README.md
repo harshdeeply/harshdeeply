@@ -1,16 +1,23 @@
-# 👋 Hello, I'm Harshdeep!
+> "He who is not content with what he has would not be content with what he wants."
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshdeeply&color=red)
+# hi, i'm harshdeep.
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=harshdeeply&color=red)](https://github.com/harshdeeply)
 
-I'm passionate about coding and building robust software. My expertise lies in MERN, PERN, and Golang. Currently exploring Ruby on Rails.
+software engineer & founder.  
+building scalable systems that solve real problems.
 
-## 💼 Top Languages
+---
+
+## building
+
+### [propsynk.com](https://propsynk.com)
+
+compliance-first rental management for canadian landlords.  
+leases, rent, maintenance, disputes — with a complete audit trail.
+
+---
+
+## stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeeply&layout=compact&theme=radical)](https://github.com/harshdeeply/github-readme-stats)
-
-## 🌱 I’m currently learning
-
-- Ruby
-- Rails
