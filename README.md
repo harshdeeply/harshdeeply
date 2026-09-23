@@ -23,7 +23,7 @@ most of my work sits around backend systems, data-heavy applications, real-time 
 
 ## currently building
 
-### [propsynk](https://propsynk.com)
+### [propsynk ↗](https://propsynk.com)
 
 a compliance-first rental management platform for canadian landlords.
 
@@ -31,22 +31,22 @@ propsynk brings leases, rent, maintenance, tenant screening, and disputes into o
 
 ---
 
-## stack
+## my stack
 
 **backend**  
-go · python · c# · node.js
+go · python · c# · node.js · java
 
 **frontend**  
 typescript · react · next.js · react native
 
 **data**  
-postgresql · redis
+postgresql · redis · mongodb
 
 **infra**  
 docker · kubernetes · gcp · aws
 
 **ai**  
-llms · structured outputs · tool calling · agents
+llms · structured outputs · rag · tool calling · agents
 
 ---
 
