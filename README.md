@@ -1,15 +1,59 @@
-# hi, i'm harshdeep.
-
 [![Profile Views](https://komarev.com/ghpvc/?username=harshdeeply&color=red)](https://github.com/harshdeeply)
 
-ai-first software engineer & a founder.  
+# hi, i’m harshdeep.
+
+**software engineer · founder**
+
 i build scalable systems that solve real problems responsibly.
+
+most of my work sits around backend systems, data-heavy applications, real-time infrastructure, and applied ai.
+
+---
+
+## what i work on
+
+- distributed systems
+- real-time and event-driven systems
+- data-heavy applications
+- backend infrastructure
+- applied ai
+- full-stack product engineering
 
 ---
 
 ## currently building
 
-### [propsynk.com](https://propsynk.com)
+### [propsynk](https://propsynk.com)
 
-rental management built around compliance, transparency, and better recordkeeping.
-propsynk helps canadian landlords manage leases, rent, maintenance, screening, and disputes with clear documentation and a complete audit trail.
+a compliance-first rental management platform for canadian landlords.
+
+propsynk brings leases, rent, maintenance, tenant screening, and disputes into one system with clear records and a complete audit trail.
+
+---
+
+## stack
+
+**backend**  
+go · python · c# · node.js
+
+**frontend**  
+typescript · react · next.js · react native
+
+**data**  
+postgresql · redis
+
+**infra**  
+docker · kubernetes · gcp · aws
+
+**ai**  
+llms · structured outputs · tool calling · agents
+
+---
+
+## how i think about engineering
+
+i prefer simple systems, clear boundaries, and boring infrastructure.
+
+i design for retries, duplicate events, partial failures, bad data, and models being wrong.
+
+if a system is hard to debug, hard to change, or hard to trust, it is not done.
