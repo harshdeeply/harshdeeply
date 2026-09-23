@@ -34,19 +34,19 @@ propsynk brings leases, rent, maintenance, tenant screening, and disputes into o
 ## my stack
 
 **backend**  
-go · python · c# · node.js · java
+`go` · `python` · `c#` · `node.js` · `java`
 
 **frontend**  
-typescript · react · next.js · react native
+`typescript` · `react` · `next.js` · `react native`
 
 **data**  
-postgresql · redis · mongodb
+`postgresql` · `redis` · `mongodb`
 
 **infra**  
-docker · kubernetes · gcp · aws
+`docker` · `kubernetes` · `gcp` · `aws`
 
 **ai**  
-llms · structured outputs · rag · tool calling · agents
+`llms` · `structured outputs` · `rag` · `tool calling` · `agents`
 
 ---
 
