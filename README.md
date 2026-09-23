@@ -1,17 +1,15 @@
-> "He who is not content with what he has would not be content with what he wants."
-
 # hi, i'm harshdeep.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=harshdeeply&color=red)](https://github.com/harshdeeply)
 
-software engineer & founder.  
-building scalable systems that solve real problems.
+ai-first software engineer & a founder.  
+i build scalable systems that solve real problems responsibly.
 
 ---
 
-## building
+## currently building
 
 ### [propsynk.com](https://propsynk.com)
 
-compliance-first rental management for canadian landlords.  
-leases, rent, maintenance, disputes — with a complete audit trail.
+rental management built around compliance, transparency, and better recordkeeping.
+propsynk helps canadian landlords manage leases, rent, maintenance, screening, and disputes with clear documentation and a complete audit trail.
